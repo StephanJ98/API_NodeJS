@@ -2,9 +2,9 @@
 
 ## :books:Use
 
-1- Download the files.
-2- Open a terminal and and go to the folder.
-3- Use `npm install`.
+1. Download the files.
+2. Open a terminal and and go to the folder.
+3. Use `npm install`.
 
 ## :pencil:Functions
 
